@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
     "lib/numbers_and_words/core_ext/array.rb",
     "lib/numbers_and_words/core_ext/float.rb",
     "lib/numbers_and_words/core_ext/integer.rb",
+    "lib/numbers_and_words/core_ext/string.rb"
     "lib/numbers_and_words/helper_classes.rb",
     "lib/numbers_and_words/helper_classes/array_extensions/helpers.rb",
     "lib/numbers_and_words/helper_classes/array_extensions/validations.rb",
